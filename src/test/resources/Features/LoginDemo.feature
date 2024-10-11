@@ -9,4 +9,4 @@ Feature: Test login functionality
     Examples: 
       | username     | password  |
       | mp@gmail.com | malhari@# |
-      
+      | Test         | Test      |
